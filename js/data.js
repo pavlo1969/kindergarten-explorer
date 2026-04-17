@@ -102,7 +102,7 @@ const LOCATIONS = {
     kidName: 'Mia',
     color: '#2980B9',
     bgGradient: 'linear-gradient(160deg, #2980B9 0%, #6DD5FA 100%)',
-    video: 'videos/classroom.mp4',
+    video: 'https://github.com/pavlo1969/kindergarten-explorer/releases/download/v1.0/classroom.mp4',
     photo: 'photos/classroom.jpeg',
     speech: "Hi! I'm Mia! This is where we learn letters, numbers and stories! ✏️",
     connections: { forward: 'cafeteria', backward: 'hallway', left: null, right: null },
