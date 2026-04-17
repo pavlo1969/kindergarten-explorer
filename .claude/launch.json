@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "Kindergarten Explorer (Ruby)",
+      "runtimeExecutable": "ruby",
+      "runtimeArgs": ["-run", "-e", "httpd", "/Users/pshynal/Desktop/video kids", "-p", "8080"],
+      "port": 8080
+    }
+  ]
+}
